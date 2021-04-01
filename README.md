@@ -1,3 +1,9 @@
+- 😄 Hi my name is wild
+- 🔭 I’m into astrology and coding
+- 🌱 I’m currently learning C++ and ethical hacking on linux
+- ⚡ I use backbox linux which is an Ubuntu based linux
+- 📫 You can reach me in discord wild#6558
+
 <!--
 **WildCD/WildCD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
